@@ -1,0 +1,2 @@
+az webapp up --runtime PYTHON:3.14 --sku F1 --name eric-20261017 --location australiaeast --resource-group GAE26522RG
+az webapp up --runtime PYTHON:3.14
