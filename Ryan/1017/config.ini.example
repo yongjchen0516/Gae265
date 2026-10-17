@@ -1,0 +1,15 @@
+[Line]
+CHANNEL_SECRET = 
+CHANNEL_ACCESS_TOKEN = 
+
+[AzureTranslator]
+Key = 
+Region = eastus
+ENDPOINT = 
+
+[AzureSpeech]
+SPEECH_KEY = 
+SPEECH_REGION = 
+
+[Deploy]
+URL = 

@@ -1,0 +1,13 @@
+# Local credentials and environment files
+config.ini
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and cache files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated speech audio
+
